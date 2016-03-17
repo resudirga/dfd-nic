@@ -276,7 +276,7 @@ class NICBasemap(Basemap):
         self.add_colorbar(colorbar)
         
         self.show_title('Nicaragua \nPopulation Density \nper km^2')
-        self.show_reference('OpenStreetMap. Retrieved: Nov 2015')
+        self.show_reference('Source: OpenStreetMap. Retrieved: Nov 2015')
         
         
 #---------- main program --------------

@@ -18,8 +18,8 @@ map.fig.set_size_inches((FIG_WIDTH_IN, FIG_HEIGHT_IN), forward=True)
 # Population Density by Municipality
 map.population_density_by_municipality()
 
-# Show municipality boundaries
-#map.draw_municipalities(source='gadm')
+# Show department boundaries
+map.draw_depts(source='gadm')
 
 # Show the figure and save
 map.fig.show()
