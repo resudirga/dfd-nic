@@ -48,7 +48,7 @@ def get_regexp(type):
         regexp = re.compile( 'hos?pital|dentist|pharmacy|farma|laborator|cl.?n.?c|\
                   medic|optic|hospice|doctor|puesto m.?dico|puesto de salud|\
                   centro de salud|centro m.?dic.?|unidad m.?dic.?|m.?dico.? unid.*|\
-                  health_post|health_cent[er][re]|\
+                  health_post|health_cent[er][re]|casa de la mujer|\
                   health_facility:type|health_specialty' )
     elif type == 'education':
         regexp = re.compile('universidad|university|escuela|school|college|colegio|\
@@ -85,12 +85,12 @@ def classify_facility_type(name, type):
         if re.search('hos?pital', name) : facility_type = 'hospital'
         elif re.search('dentist', name) : facility_type = 'dentist'
         elif re.search('pharmacy|farma', name) : facility_type = 'pharmacy'
-        elif re.search('cl?n?c', name) : facility_type = 'clinic'
+        elif re.search('cl.?n.?c', name) : facility_type = 'clinic'
         elif re.search('puesto m.?dico|puesto de salud|health post', name) : facility_type = 'health_post'
         elif re.search('centro de salud|centro m.?dic.?|unidad m.?dic.?|m.?dico.? unid.*', name): facility_type = 'health_centre'
         elif re.search('laborator', name) : facility_type = 'laboratory'
         elif re.search('doctor|medic', name) : facility_type = 'medic'
-        elif re.search('maternas|maternity', name) : facility_type = 'maternity_home'
+        elif re.search('maternas|maternity|casa de la mujer', name) : facility_type = "women's house/maternity_home"
         elif re.search('hospice', name) : facility_type = 'other:hospice'
         elif re.search('optic', name) : facility_type = 'other:optic'
         
@@ -153,14 +153,14 @@ def xml_is_amenity(elem):
             # ----- Search at node/tag.key
             # Health
             regexp = re.compile('healthcare|health_facility:type|health_specialty|hos?pital|\
-            doctor|cl?n?c|dentist|pharma|farma')
+            doctor|cl.?n.?c|dentist|pharma|farma')
             if regexp.search(key):
                 amenity_type = 'health'
                 if re.search('health_facility:type|healthcare', key):
                     facility_type = val
                 elif re.search('health_specialty:.*', key):
                     facility_type = re.sub('health_specialty:(.*)', '\\1', key)
-                else: # re.search('hos?pital|doctor|cl?nic*|dentist|farma|pharma', key):
+                else: # re.search('hos?pital|doctor|cl.?nic|dentist|farma|pharma', key):
                     facility_type = key 
             
             # Education
@@ -173,13 +173,13 @@ def xml_is_amenity(elem):
             # ----- Search at the attribute value ("v") of node/tag."k"=="amenity"
             if re.search('amenity', key):                        
                 # Health
-                regexp = re.compile('hos?pital|cl?n?c|laborator|pharmacy|\
+                regexp = re.compile('hos?pital|cl.?n.?c|laborator|pharmacy|\
                 health_post|health_cent[er][re]|doctor|dentist|\
                 optic|medic|hospice')
                           
                 if regexp.search(val):
                     amenity_type = 'health'
-                    if re.search('hos?pital|dentist|pharmacy|cl?n?c|\
+                    if re.search('hos?pital|dentist|pharmacy|cl.?n.?c|\
                     medic|optic|hospice|doctor', val):
                         facility_type = val
                     elif re.search('laborator', val):

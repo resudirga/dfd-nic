@@ -62,7 +62,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 1143989028,Cyber Farmacia Interplaza,health,pharmacy,11.9307683,-85.9531462,,,Nicaragua
 1143989045,La Esperanza Granada,education,kindergarten,11.9308859,-85.9518055,,,Nicaragua
 1143989059,Facultad Informatica,education,college,11.9307368,-85.9507563,,,Nicaragua
-1144001734,Clinica Alhambra Granada,health,,11.9325003,-85.9542539,,,Nicaragua
+1144001734,Clinica Alhambra Granada,health,clinic,11.9325003,-85.9542539,,,Nicaragua
 1144001758,Universidad Hispanoamericana,education,college,11.9327103,-85.9547689,,,Nicaragua
 1144051572,,health,doctors,11.9339909,-85.951046,,,Nicaragua
 1144051575,Corazon de Jesus,health,doctors,11.9341273,-85.9521511,,,Nicaragua
@@ -73,6 +73,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 1145521447,Centro Escolar Carlos A. Bravo,education,school,11.9302124,-85.9492558,,,Nicaragua
 1145523009,,health,doctors,11.9301773,-85.9489667,,,Nicaragua
 1145529859,Centro Apoyo extraescolar,education,school,11.9299436,-85.9474325,,,Nicaragua
+1145538752,Casa de la Mujer,health,women's house/maternity_home,11.9300175,-85.9526588,,,Nicaragua
 1147472217,Laboratorio Clinica Xalteva,health,doctors,11.9285858,-85.9619912,,,Nicaragua
 1147472296,English Language School,education,school,11.92952,-85.9591148,,,Nicaragua
 1147472303,,health,dentist,11.929667,-85.9591373,,,Nicaragua
@@ -91,7 +92,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 1148163184,Farmacia Carcoche,health,pharmacy,11.9287762,-85.9553394,,,Nicaragua
 1148185073,,health,pharmacy,11.9282303,-85.9550926,,,Nicaragua
 1148186604,Farmacia del Pueblo,health,pharmacy,11.9270337,-85.9551141,,,Nicaragua
-1194971388,Hostal La Clinica,health,,12.4332757,-86.8794233,,,Nicaragua
+1194971388,Hostal La Clinica,health,clinic,12.4332757,-86.8794233,,,Nicaragua
 1212193679,Dr. Juan Carlos Leyton,health,doctors,12.1383951,-86.2780894,,,Nicaragua
 1216931357,Escuela de Las Vueltas,education,school,11.1718137,-85.6162388,,,Nicaragua
 1245017538,Cruz Roja de Los Chiles,health,hospital,11.0309984,-84.7174963,,,Nicaragua
@@ -146,6 +147,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 1933087330,Kinder Montessori,education,kindergarten,12.0964426,-86.2300482,,,Nicaragua
 1933088854,Sant Dominic School,education,school,12.0998237,-86.2299928,,,Nicaragua
 1933091330,Farmadescuento,health,pharmacy,12.0981932,-86.2401994,,,Nicaragua
+1951541158,Central De Salud,health,clinic,11.1120342,-85.7607023,,,Nicaragua
 1966008076,Colegio Calasanz,education,school,12.0847743,-86.3201045,,,Nicaragua
 1983084135,Colegio Cristiano Josue 1:8,education,school,12.1937465,-86.3688659,,,Nicaragua
 2026720779,La Mariposa Escuela de Español & Eco-Hotel,education,school,11.9501623,-86.1821991,,,Nicaragua
@@ -232,7 +234,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2449659532,"Centro de Salud ""Silvia Ferrufino""",health,doctors,12.1503651,-86.2081884,,,Nicaragua
 2449663456,Farmacia León,health,hospital,12.4373014,-86.8768785,,,Nicaragua
 2450470782,,health,dentist,12.1198879,-86.2586865,,,Nicaragua
-2453319340,Clinica veterinaria el Triunfo,health,,12.1410747,-86.26543,,,Nicaragua
+2453319340,Clinica veterinaria el Triunfo,health,clinic,12.1410747,-86.26543,,,Nicaragua
 2454991503,Altagracia,health,pharmacy,12.1378135,-86.2917109,,,Nicaragua
 2454991507,Buen Día,health,pharmacy,12.1310976,-86.2938651,,,Nicaragua
 2457016750,Farmacia Marien,health,pharmacy,12.1183333,-86.2029231,,,Nicaragua
@@ -269,7 +271,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2490583593,Farmacia Buendía,health,pharmacy,12.1310482,-86.2937445,,,Nicaragua
 2490583625,Escuela Emanuel Mongalo,education,school,12.1403332,-86.2895849,,,Nicaragua
 2490583627,Variedades Joshep,education,school,12.1398011,-86.2893238,,,Nicaragua
-2490583671,Clínica Médica Cristiana,health,,12.1122915,-86.2249422,,,Nicaragua
+2490583671,Clínica Médica Cristiana,health,clinic,12.1122915,-86.2249422,,,Nicaragua
 2490583675,Farmacia David,health,pharmacy,12.1337206,-86.2908111,,,Nicaragua
 2490583699,Farmacia El Cristo,health,pharmacy,12.1424653,-86.2832536,,,Nicaragua
 2490583739,Farmacia David,health,pharmacy,12.1337105,-86.2907335,,,Nicaragua
@@ -279,7 +281,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2491526383,Escuela Paul Harris,education,school,12.1544464,-86.2905829,,,Nicaragua
 2496955983,Plaza El Edén,education,school,12.1409508,-86.2420299,,,Nicaragua
 2496955990,Variedades Joshep,education,school,12.1398022,-86.2892158,,,Nicaragua
-2496955997,Rótulo Clínica Nuevos Horizontes,health,,12.0770452,-86.1943496,,,Nicaragua
+2496955997,Rótulo Clínica Nuevos Horizontes,health,clinic,12.0770452,-86.1943496,,,Nicaragua
 2496956004,Hospital Japonés,health,hospital,12.1340124,-86.2383082,,,Nicaragua
 2496956008,Farmacia El Cristo,health,pharmacy,12.1423755,-86.2833013,,,Nicaragua
 2498024960,Xolotlan,health,pharmacy,12.1156242,-86.2524068,,,Nicaragua
@@ -290,18 +292,18 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2498938343,Farma Descuento,health,pharmacy,12.1376625,-86.2816751,,,Nicaragua
 2498972182,Xolotlan Farmacia,health,pharmacy,12.1353434,-86.2780394,,,Nicaragua
 2498973387,Farmacias Xolotlan,health,pharmacy,12.1024629,-86.2578789,,,Nicaragua
-2500129757,Clínica Dental,health,,12.126736,-86.2082489,,,Nicaragua
+2500129757,Clínica Dental,health,clinic,12.126736,-86.2082489,,,Nicaragua
 2500129758,Colegio Inmaculada Concepción,education,school,12.1274702,-86.2096433,,,Nicaragua
 2500129770,Cyber EL Colonial,health,pharmacy,12.146372,-86.2383976,,,Nicaragua
 2500129772,Farmacia Luis,health,pharmacy,12.1461098,-86.2429639,,,Nicaragua
 2500129775,Farmacia Sophya,health,pharmacy,12.1278126,-86.2119513,,,Nicaragua
 2500129787,Verde Sonrisa,education,school,12.1427835,-86.2290419,,,Nicaragua
-2500129790,Clínica Dental,health,,12.1267427,-86.2081626,,,Nicaragua
+2500129790,Clínica Dental,health,clinic,12.1267427,-86.2081626,,,Nicaragua
 2500129839,Frente Hospital Alemán,health,hospital,12.1462949,-86.21787,,,Nicaragua
 2500129934,Colegio Inmaculada Concepción,education,school,12.1273063,-86.2096189,,,Nicaragua
 2501240001,Colegio Camilo Zapata,education,school,12.1322029,-86.2612965,,,Nicaragua
 2501245092,Farmacia San Lorenzo,health,pharmacy,12.1212587,-86.273975,,,Nicaragua
-2505154019,Centro Médico Santa Fe,health,health_centre,12.1202825,-86.2739062,,,Nicaragua
+2505154019,Centro Médico Santa Fe,health,clinic,12.1202825,-86.2739062,,,Nicaragua
 2505154027,"Farmacia del INSS ""Simon Bolivar""",health,pharmacy,12.1451306,-86.2779093,,,Nicaragua
 2505154053,Opticas Münkel,health,other:optic,12.1366807,-86.2770164,,,Nicaragua
 2507312720,Farmacia Value,health,pharmacy,12.135382,-86.2824177,,,Nicaragua
@@ -392,15 +394,16 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2612971808,Opticas Munkel,health,other:optic,12.1291906,-86.2328766,,,Nicaragua
 2612971809,Farmacia Scarleth,health,pharmacy,12.1278619,-86.2365637,,,Nicaragua
 2612971815,Farmacia del INSS Centroamerica,health,pharmacy,12.1146792,-86.254587,,,Nicaragua
-2617570312,Raymari Clinica Veterinaria,health,,12.0917564,-86.2343469,,,Nicaragua
+2617570312,Raymari Clinica Veterinaria,health,clinic,12.0917564,-86.2343469,,,Nicaragua
 2618003483,Colegio Sagrado Corazón de Jesús,education,school,12.1364163,-86.2451381,,,Nicaragua
+2620563417,Centro de Salud,health,clinic,12.2818383,-82.9773736,,,Nicaragua
 2620563434,Primaria,education,school,12.287249,-82.9814779,,,Nicaragua
 2622496041,Clinica Dentista Cuba,health,dentist,12.1215773,-86.2501069,,,Nicaragua
 2622496042,Clinica del Pie,health,doctors,12.1190216,-86.2549107,,,Nicaragua
 2622559437,El Quetzal,education,dancing_school,12.1145235,-86.2539976,,,Nicaragua
 2627443505,Opticas Vision,health,other:optic,12.1167517,-86.2579784,,,Nicaragua
 2627443515,Medco,health,pharmacy,12.1195341,-86.2615132,,,Nicaragua
-2627443519,Clinica Tiscapa,health,,12.118474,-86.2583,,,Nicaragua
+2627443519,Clinica Tiscapa,health,clinic,12.118474,-86.2583,,,Nicaragua
 2629885079,Opticas Vision,health,other:optic,12.1454787,-86.2305672,,,Nicaragua
 2629885081,Opticas Munkel,health,other:optic,12.1441603,-86.2564457,,,Nicaragua
 2632967767,Escuela Benito Juarez,education,school,11.9067382,-86.0899891,,,Nicaragua
@@ -426,18 +429,18 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2648677770,Farmacia Potenza,health,pharmacy,12.1506094,-86.2438842,,,Nicaragua
 2649325714,,education,school,11.8984666,-86.1202641,,,Nicaragua
 2657146872,Farmacia Belmonte,health,pharmacy,12.1270079,-86.3107331,,,Nicaragua
-2658437403,Clinica veterinaria Dr. Arguello,health,,12.1188082,-86.2508484,,,Nicaragua
+2658437403,Clinica veterinaria Dr. Arguello,health,clinic,12.1188082,-86.2508484,,,Nicaragua
 2658731039,Farmacia Scarleth,health,pharmacy,12.1346028,-86.2169338,,,Nicaragua
 2658731041,Santa Lucía Pharmacy,health,pharmacy,12.1311283,-86.212568,,,Nicaragua
 2658731073,,education,school:entrance,12.1309223,-86.2109174,,,Nicaragua
 2658731080,,health,dentist,12.1321055,-86.2173599,,,Nicaragua
 2661531195,Laboratorio Químico Inmaculada Concepción,health,laboratory,12.1534885,-86.3061725,,,Nicaragua
 2665724624,,education,school,11.9355062,-86.1907946,,,Nicaragua
-2666173937,Clínica Don Bosco,health,,12.1346345,-86.2383412,,,Nicaragua
+2666173937,Clínica Don Bosco,health,clinic,12.1346345,-86.2383412,,,Nicaragua
 2666272684,Semáforos Hospital Metropolitano,health,hospital,12.0863747,-86.2309047,,,Nicaragua
 2666366754,Farmacia Hospital Central Managua de Cesar Amador Ruhl,health,pharmacy,12.1162311,-86.2512677,,,Nicaragua
 2666367064,Farmacia Alvarado,health,pharmacy,12.1310067,-86.2529126,,,Nicaragua
-2666413594,Aqua Clínica Dermatológica Estética,health,,12.1214132,-86.2685097,,,Nicaragua
+2666413594,Aqua Clínica Dermatológica Estética,health,clinic,12.1214132,-86.2685097,,,Nicaragua
 2666526416,Hospital Cruz Azul Policlinica Norte,health,hospital,12.1510882,-86.2351975,,,Nicaragua
 2666735829,Dr. Mario Sanchez,health,dentist,12.1278804,-86.2671093,,,Nicaragua
 2673977436,Farmacia Sarah,health,pharmacy,12.1100747,-86.2869412,,,Nicaragua
@@ -482,17 +485,21 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2690538275,,education,school,12.0037863,-86.2003514,,,Nicaragua
 2699059583,Farmacia Fátima,health,pharmacy,12.0724759,-86.2186003,,,Nicaragua
 2701676337,Escuela professor Humberto Aguilar,education,school,11.9531786,-86.1853485,,,Nicaragua
+2702189755,,health,clinic,11.5694919,-85.5783356,,,Nicaragua
 2705797360,Clinica Medica Previsional MINSA,health,hospital,13.0906904,-86.0010244,,,Nicaragua
 2705797377,Farmacia Vargas,health,pharmacy,13.09132,-86.0019437,,,Nicaragua
 2705797380,Clinica Excelencia Dental,health,dentist,13.0943453,-86.0017667,,,Nicaragua
 2705797381,Clinica Dental Santa Maria,health,dentist,13.0951395,-86.0021851,,,Nicaragua
-2705850990,Clinica de Especialidades,health,,13.0859098,-86.0010831,,,Nicaragua
-2705851023,Clinica Medica Misión para Cristo,health,medic,13.0877173,-86.0000427,,,Nicaragua
+2705819340,Los Pipitos,health,clinic,13.0912247,-85.9983563,,,Nicaragua
+2705819341,Casa de la Mujer,health,clinic,13.0921913,-85.9983777,,,Nicaragua
+2705850990,Clinica de Especialidades,health,clinic,13.0859098,-86.0010831,,,Nicaragua
+2705851023,Clinica Medica Misión para Cristo,health,clinic,13.0877173,-86.0000427,,,Nicaragua
 2706133710,,education,school,12.0226055,-86.2133641,,,Nicaragua
 2706133711,Farmacia Castillo,health,pharmacy,12.0224551,-86.2103545,,,Nicaragua
 2706133712,Farmacia Ticuantepe,health,pharmacy,12.0233432,-86.2072689,,,Nicaragua
 2706133714,Colegio Público Santo Domingo,education,school,12.083561,-86.2361675,,,Nicaragua
 2706133717,Farmacia Marbela,health,pharmacy,12.0094711,-86.2159214,,,Nicaragua
+2706207033,Centro de Salud San Juan,health,clinic,11.9520849,-86.187677,,,Nicaragua
 2707998374,Centro Escolar,education,school,12.5310349,-86.8919442,,,Nicaragua
 2708075038,CICO,education,kindergarten,12.6379321,-87.1442232,,,Nicaragua
 2708075040,Colegio Hogar Paulo,education,school,12.6334962,-87.1193109,,,Nicaragua
@@ -506,7 +513,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2714691184,Instituto Nacional Guillermo Ampie Lanzas,education,school,11.9449118,-86.1864507,,,Nicaragua
 2714691338,Escuela de Palo Solo,education,school,11.955877,-86.2412096,,,Nicaragua
 2714691447,,education,school,12.0088186,-86.2160612,,,Nicaragua
-2714691562,Clínica Médico Quirúrgica,health,,12.0241264,-86.2060093,,,Nicaragua
+2714691562,Clínica Médico Quirúrgica,health,clinic,12.0241264,-86.2060093,,,Nicaragua
 2714942010,Farmacia del Norte,health,pharmacy,12.15239,-86.1889392,,,Nicaragua
 2714943510,Farmacia Alejandra,health,pharmacy,12.1535975,-86.1830732,,,Nicaragua
 2715045509,La escuela primaria Panamá,education,school,11.9737235,-86.2029714,,,Nicaragua
@@ -579,7 +586,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2782573948,,education,school,12.1051142,-86.2225252,,,Nicaragua
 2782574038,,health,hospital,12.105608,-86.2225437,,,Nicaragua
 2785615846,Farmacia Zenit,health,pharmacy,12.065616,-85.089742,,,Nicaragua
-2805284513,Clínica Cruz Azul,health,,11.9768343,-86.0970001,,,Nicaragua
+2805284513,Clínica Cruz Azul,health,clinic,11.9768343,-86.0970001,,,Nicaragua
 2819173246,UHISPAM Masaya,education,university,11.9758082,-86.0858652,,,Nicaragua
 2819807020,La Estrella Roja,health,pharmacy,11.974883,-86.0956055,,,Nicaragua
 2823776881,Escuela Americas 2,education,school,12.1599079,-86.1871874,,,Nicaragua
@@ -620,17 +627,17 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2928499355,Clínica Dental Emmanuel,health,dentist,12.1224691,-86.1952543,,,Nicaragua
 2930979017,Farmacia,health,pharmacy,12.1255274,-86.2040464,,,Nicaragua
 2930979052,Farmacia Sor María,health,pharmacy,12.1452042,-86.2373699,,,Nicaragua
-2932480064,Clínica Bethel,health,,12.150728,-86.3132248,,,Nicaragua
-2932480065,Clínica Bethel,health,,12.1506323,-86.3130837,,,Nicaragua
+2932480064,Clínica Bethel,health,clinic,12.150728,-86.3132248,,,Nicaragua
+2932480065,Clínica Bethel,health,clinic,12.1506323,-86.3130837,,,Nicaragua
 2937568491,CCAP,education,school,12.1396775,-86.2325197,,,Nicaragua
 2939801712,Dentista Dra Ada Nelly,health,dentist,12.1436091,-86.2335695,,,Nicaragua
 2946469847,BioAnalisis laboratorio clínico,health,laboratory,12.1024172,-86.2570596,,,Nicaragua
 2948372892,Paulo freire,education,university,12.1459781,-86.304481,,,Nicaragua
-2948372902,Clínica María Auxiliadora,health,,12.1362928,-86.2583862,,,Nicaragua
+2948372902,Clínica María Auxiliadora,health,clinic,12.1362928,-86.2583862,,,Nicaragua
 2950380215,Hospital Metropolitano Vivian Pellas,health,hospital,12.0859976,-86.2339393,,,Nicaragua
 2953594483,Colegio Chino-Nicaragüense,education,school,12.0448588,-86.1957185,,,Nicaragua
 2998470560,Escuela Publica  Hugo Chavez,education,school,12.1592895,-86.202506,,,Nicaragua
-3006216747,Edificio Clínica El Carmen,health,,12.1478276,-86.2842086,,,Nicaragua
+3006216747,Edificio Clínica El Carmen,health,clinic,12.1478276,-86.2842086,,,Nicaragua
 3017254429,Colegio Rodríguez Ruíz,education,school,12.0569804,-86.1953609,,,Nicaragua
 3021707898,Mongalo Dentistry,health,dentist,12.1216841,-86.2565745,,,Nicaragua
 3022718353,Farnmacia Central,health,pharmacy,11.9123574,-86.0742963,,,Nicaragua
@@ -648,6 +655,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3107954277,Farmacia Siloe,health,pharmacy,12.1299741,-86.2297736,,,Nicaragua
 3108205492,Farmacia Moncada,health,pharmacy,12.1322869,-86.2940775,,,Nicaragua
 3108345097,,education,school,13.0060323,-85.807948,,,Nicaragua
+3108652507,Centro de Salud Nuestra Señora de las Victorias,health,clinic,11.9761113,-86.3102865,,,Nicaragua
+3108655960,,health,clinic,11.450855,-86.0648738,,,Nicaragua
 3108656894,,health,hospital,11.842517,-86.2009729,,,Nicaragua
 3110317350,Opticas Matamoros,health,other:optic,12.1452802,-86.2320246,,,Nicaragua
 3110317351,Opticas Münkel,health,other:optic,12.1452784,-86.2319214,,,Nicaragua
@@ -656,6 +665,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3132184344,Farmacia San Jose,health,pharmacy,12.1608836,-84.2205353,,,Nicaragua
 3132184375,,health,pharmacy,12.1603337,-84.220587,,,Nicaragua
 3139347652,,education,school,12.4805508,-86.0482511,,,Nicaragua
+3140667732,Centro de Salud,health,clinic,12.6568337,-83.7424159,,,Nicaragua
 3143519190,BICU University,education,university,12.1697564,-83.0565887,,,Nicaragua
 3143533449,Corn Island Health Center,health,hospital,12.1692844,-83.0541104,,,Nicaragua
 3143533451,Tazlor Pharmacy,health,pharmacy,12.1691087,-83.0544778,,,Nicaragua
@@ -665,7 +675,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3150792074,Kinder Ker Pre escolar bilingue,education,kindergarten,12.1146758,-86.2688335,,,Nicaragua
 3157327771,Cruz Roja,health,hospital,14.0315565,-83.3796118,,,Nicaragua
 3157327778,Jardín de la Sonrisa,education,kindergarten,14.0314204,-83.3796217,,,Nicaragua
-3157376896,Clinica Sukia,health,,14.0264928,-83.3827912,,,Nicaragua
+3157376894,Casa Materna,health,clinic,14.0267063,-83.3826304,,,Nicaragua
+3157376896,Clinica Sukia,health,clinic,14.0264928,-83.3827912,,,Nicaragua
 3157376898,Escuela de Enfermería,education,university,14.0268583,-83.3824836,,,Nicaragua
 3157376900,Farmácia Fladia Nifer,health,pharmacy,14.0244976,-83.3858208,,,Nicaragua
 3158139223,Centro Escolar Sol de Libertad,education,school,14.0320774,-83.3862009,,,Nicaragua
@@ -680,8 +691,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3163833059,Colegio Cristiano Takashi,education,school,14.0363209,-83.3969168,,,Nicaragua
 3163834766,Pulperia Amalia,health,pharmacy,14.043194,-83.3933707,,,Nicaragua
 3163920079,Cadamuc,health,pharmacy,14.0306416,-83.3817688,,,Nicaragua
-3163920083,Clinica Bilwi,health,,14.033315,-83.3792133,,,Nicaragua
-3163920084,Clinica Veterinaria Guadamuz,health,,14.0334598,-83.3793089,,,Nicaragua
+3163920083,Clinica Bilwi,health,clinic,14.033315,-83.3792133,,,Nicaragua
+3163920084,Clinica Veterinaria Guadamuz,health,clinic,14.0334598,-83.3793089,,,Nicaragua
 3163960365,Farmácia Humberto,health,pharmacy,14.0266174,-83.3826969,,,Nicaragua
 3165905820,Laboratorio de Anatomia,health,laboratory,14.0780454,-83.4017983,,,Nicaragua
 3171393261,,education,school,12.9017293,-85.9488121,,,Nicaragua
@@ -729,8 +740,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3230468217,Farmacia Nefi,health,pharmacy,12.1670009,-86.3533633,,,Nicaragua
 3230617629,Colegio Nueva Vida,education,school,12.1586538,-86.3718217,,,Nicaragua
 3235441537,Escuela Carrusel,education,kindergarten,12.566917,-87.0261885,,,Nicaragua
-3235461068,"Laboratorio Clínico ""Santa Ana""",health,laboratory,12.5739017,-87.0267301,Chichigalpa,,Nicaragua
-3235464761,Puesto de Salud Reparto Wells,health,health_post,12.5641326,-87.0244538,Chichigalpa,,Nicaragua
+3235461068,"Laboratorio Clínico ""Santa Ana""",health,clinic,12.5739017,-87.0267301,Chichigalpa,,Nicaragua
+3235464761,Puesto de Salud Reparto Wells,health,clinic,12.5641326,-87.0244538,Chichigalpa,,Nicaragua
 3237278816,Agricons,health,pharmacy,12.1538379,-86.2294976,,,Nicaragua
 3237278826,Colegio José de la Cruz Mena,education,school,12.1562413,-86.2383928,,,Nicaragua
 3237278836,Farmacia Helena,health,pharmacy,12.117162,-86.3002319,,,Nicaragua
@@ -767,7 +778,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3255740087,Palí,education,school,12.1060978,-86.297763,,,Nicaragua
 3255740089,Pulpería Rodríguez,education,school,12.1313701,-86.2904845,,,Nicaragua
 3258767771,Farmacia Siloe,health,pharmacy,12.1178501,-86.2026218,,,Nicaragua
-3264411572,Clínica de Salud del Pie,health,,12.1413558,-86.2435607,,,Nicaragua
+3264411572,Clínica de Salud del Pie,health,clinic,12.1413558,-86.2435607,,,Nicaragua
 3264411575,Entrada Barrio Colombia,education,school,12.1297019,-86.245307,,,Nicaragua
 3270896599,Colegio República de Colombia,education,school,12.1299703,-86.2452431,,,Nicaragua
 3270896602,Farmacia San Miguel,health,pharmacy,12.1314151,-86.2446397,,,Nicaragua
@@ -813,7 +824,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3301308667,Farmacia Schick,health,pharmacy,12.1116619,-86.2337487,,,Nicaragua
 3301308668,Farmacia Vargas,health,pharmacy,12.11167,-86.227685,,,Nicaragua
 3301308669,Ferretería Cristian,health,pharmacy,12.1395434,-86.1960144,,,Nicaragua
-3301308671,Grupo Amor y Fe,health,,12.1120579,-86.2254739,,,Nicaragua
+3301308671,Grupo Amor y Fe,health,clinic,12.1120579,-86.2254739,,,Nicaragua
 3301308684,UNA,education,university,12.1468089,-86.1621201,,,Nicaragua
 3303587370,Colegio Público Simón Bolívar,education,school,12.3066608,-86.0548452,,,Nicaragua
 3303588569,Escuela,education,school,13.0404009,-86.4714256,,,Nicaragua
@@ -830,7 +841,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3315704718,Farmacia Ramos,health,pharmacy,12.103948,-86.2217539,,,Nicaragua
 3320044544,Colegio Pablo Antonio Cuadra,education,school,12.073768,-86.1967658,,,Nicaragua
 3320044546,Hospital Japonés,health,hospital,12.1341979,-86.2381699,,,Nicaragua
-3320044551,Rótulo Clínica Nuevos Horizontes,health,,12.0768707,-86.1942542,,,Nicaragua
+3320044551,Rótulo Clínica Nuevos Horizontes,health,clinic,12.0768707,-86.1942542,,,Nicaragua
 3323910262,Farmacia Pharmanic,health,pharmacy,12.1193749,-86.216265,,,Nicaragua
 3323910267,Farmacia Ingrid,health,pharmacy,12.1489916,-86.2022733,,,Nicaragua
 3323910271,,health,doctors,12.1599923,-86.2029484,,,Nicaragua
@@ -849,12 +860,13 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3386751371,Laboratorios de Informática Educativa,health,laboratory,12.1052614,-86.2701135,,,Nicaragua
 3386753311,Laboratorio de Informática,health,laboratory,12.1054607,-86.270202,,,Nicaragua
 3386783489,Laboratorio de Informática Educativa 3809,health,laboratory,12.1056418,-86.2699931,,,Nicaragua
-3392106693,Laboratorio Bioanalisis,health,laboratory,12.1423749,-86.2551916,,,Nicaragua
+3392106693,Laboratorio Bioanalisis,health,clinic,12.1423749,-86.2551916,,,Nicaragua
 3392456676,farmacia la fe,health,pharmacy,13.7220272,-86.1383196,,,Nicaragua
 3392460677,Clinica dental,health,dentist,13.7221162,-86.1382981,,,Nicaragua
 3392460679,Universidad catolica de dele,education,university,13.7216818,-86.1419306,,,Nicaragua
 3392460744,Escuela Primaria,education,school,13.7222309,-86.1415127,,,Nicaragua
 3396941133,Laboratorio JADPA,health,laboratory,12.1371434,-86.2236487,,,Nicaragua
+3404254812,IXCHEN,health,clinic,12.1972967,-86.095335,,,Nicaragua
 3404447764,Farmacia Marbelli,health,pharmacy,12.1613126,-86.1854665,,,Nicaragua
 3404615659,Colegio Bello Horizonte,education,school,12.1476603,-86.232005,,,Nicaragua
 3404615660,Colegio Pio X,education,school,12.1456725,-86.2300661,,,Nicaragua
@@ -930,6 +942,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3511456493,Xolotlan,health,pharmacy,12.0980281,-86.2404816,,,Nicaragua
 3512709786,Ignacio Loyola,education,school,12.1382615,-86.2487046,,,Nicaragua
 3512717728,Universidad de Managua (UdeM),education,university,12.1265611,-86.309303,,,Nicaragua
+3512832999,Centro Salud San Jacinto,health,clinic,12.1384395,-86.2118755,,,Nicaragua
 3512893319,Padre Bruno Martinez,education,college,12.1388679,-86.2135717,,,Nicaragua
 3512893370,lucia,health,pharmacy,12.1369497,-86.2137499,,,Nicaragua
 3512894921,Unitec,education,university,12.1435144,-86.2149087,,,Nicaragua
@@ -939,20 +952,21 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3527246653,Farmacia Enmanuel,health,pharmacy,11.6891635,-84.4535958,,,Nicaragua
 3545957524,,health,hospital,11.9761171,-86.3103314,,,Nicaragua
 3545957528,,education,school,11.9715175,-86.3099586,,,Nicaragua
-3551762296,Clínica cardiologica del Valle,health,,12.1073994,-86.246388,,,Nicaragua
+3551762296,Clínica cardiologica del Valle,health,clinic,12.1073994,-86.246388,,,Nicaragua
 3554623114,Escuela de Manejo DriveMaster Nicaragua,education,school,12.1092414,-86.2930338,,,Nicaragua
 3560006293,Hospital Animal El Dorado,health,hospital,12.1352157,-86.2500144,,,Nicaragua
 3562260740,Farmacia Motastepe,health,pharmacy,12.1195442,-86.2705285,,,Nicaragua
 3586342031,Laboratorio Clinico Leon,health,pharmacy,12.1608271,-84.2222141,,,Nicaragua
-3597251173,Finca Las Nubes Centro de Nutrición Comunitaria,health,,11.2785059,-85.8415457,,,Nicaragua
+3597251173,Finca Las Nubes Centro de Nutrición Comunitaria,health,clinic,11.2785059,-85.8415457,,,Nicaragua
 3601424780,Colegio Stilecroft,education,school,12.1070305,-86.2531455,,,Nicaragua
 3607741359,Farmacia Universal,health,pharmacy,12.1207748,-86.2599113,,,Nicaragua
 3618112116,,education,school,12.1308035,-86.2779936,,,Nicaragua
 3618114800,FarmaVida,health,pharmacy,12.0662473,-86.2130234,,,Nicaragua
-3620536952,Clínica médica Pasteur,health,,12.1425984,-86.2772414,,,Nicaragua
+3620536952,Clínica médica Pasteur,health,clinic,12.1425984,-86.2772414,,,Nicaragua
+3622522527,Casa Materna Doña Marita,health,clinic,11.6872311,-84.4573755,,,Nicaragua
 3625373976,,education,school,12.0012656,-86.1176883,,,Nicaragua
 3625373977,Farmacia La Boniche,health,pharmacy,12.0018947,-86.1156419,,,Nicaragua
-3674149626,Policlinica Lomas del Valle,health,,12.1078236,-86.2467639,,,Nicaragua
+3674149626,Policlinica Lomas del Valle,health,clinic,12.1078236,-86.2467639,,,Nicaragua
 3674149727,Kidzchool,education,kindergarten,12.1202765,-86.2548237,,,Nicaragua
 3674149729,Farmacia Báez,health,pharmacy,12.1189153,-86.2527683,,,Nicaragua
 3681496680,Centro Escolar Autónomo Benito Juárez,education,school,12.1124528,-86.2827376,,,Nicaragua
@@ -964,9 +978,9 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3696143873,Colegio Boanerges,education,school,12.1420572,-86.2422565,,,Nicaragua
 3696259369,Farmacia Erika,health,pharmacy,12.1506437,-86.1867549,,,Nicaragua
 3696259372,Modesto Armijo,education,school,12.1531313,-86.1855483,,,Nicaragua
-3700505219,Clinica de Asma y Alergia,health,,12.1364617,-86.2658021,,,Nicaragua
+3700505219,Clinica de Asma y Alergia,health,clinic,12.1364617,-86.2658021,,,Nicaragua
 3700506875,Farmacia Jerusalem,health,pharmacy,12.1183921,-86.2395054,,,Nicaragua
-3700507175,Clinica Lopez Galo,health,,12.1254219,-86.2579533,,,Nicaragua
+3700507175,Clinica Lopez Galo,health,clinic,12.1254219,-86.2579533,,,Nicaragua
 3700514260,Cornerstone,education,school,12.147664,-86.2408033,,,Nicaragua
 3704028841,Farmacia Valle,health,pharmacy,12.1258854,-86.2367991,,,Nicaragua
 3704149053,Colegio Simón Bolívar,education,school,12.1371326,-86.2658804,,,Nicaragua
@@ -979,9 +993,9 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3707305082,Colegio Rodolfo Rodríguez Alvarado,education,school,12.1068038,-86.2966914,,,Nicaragua
 3707323719,Colegio Rodolfo Rodríguez Alvarado,education,school,12.106814,-86.2967986,,,Nicaragua
 3708560717,Radio Universidad,education,university,12.1168541,-86.2732265,,,Nicaragua
-3708562568,Clínica Veterinaria,health,,12.1344444,-86.2145956,,,Nicaragua
+3708562568,Clínica Veterinaria,health,clinic,12.1344444,-86.2145956,,,Nicaragua
 3708718232,Centro Escolar Peniel,education,school,12.137198,-86.2361023,,,Nicaragua
-3708718233,Clínica Veterinaria,health,,12.1343805,-86.2146033,,,Nicaragua
+3708718233,Clínica Veterinaria,health,clinic,12.1343805,-86.2146033,,,Nicaragua
 3709915423,Escuela La Virgen,education,school,11.1105125,-85.3828056,,,Nicaragua
 3709915551,Escuela San Vicente,education,school,11.1078118,-85.3661751,,,Nicaragua
 3725622875,Colegio Las Américas,education,school,12.1599134,-86.1880336,,,Nicaragua
@@ -1002,6 +1016,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3762133343,,health,pharmacy,13.3616346,-86.3987047,,,Nicaragua
 3766664749,Farmacia la norteña,health,pharmacy,13.3611955,-86.3978864,,,Nicaragua
 3766679911,Farmacia Veterinaria El Bramadero,health,pharmacy,13.3625212,-86.398447,,,Nicaragua
+3766689594,Centro de Salud,health,clinic,13.3606848,-86.3972237,,,Nicaragua
 3780195085,Farmacia Mary Cruz,health,pharmacy,12.1226055,-86.2443641,,,Nicaragua
 3788167799,La Estrella Roja,health,pharmacy,12.0553067,-86.2014588,,,Nicaragua
 3790900477,Escuela Delta,education,school,10.7666526,-83.7575145,,,Nicaragua
@@ -1022,7 +1037,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3876761695,Colegio Cristiano el Edén,education,school,12.1733074,-86.3667251,,,Nicaragua
 3876973814,Farmacia Sophya,health,pharmacy,12.1276716,-86.2119775,,,Nicaragua
 3877517046,Escuela Esperanza,education,school,11.8710177,-85.9044252,,,Nicaragua
-3881416957,Clínica Dental Palacios,health,,12.0116334,-83.7681456,Bluefields,,Nicaragua
+3881416957,Clínica Dental Palacios,health,clinic,12.0116334,-83.7681456,Bluefields,,Nicaragua
 3883808127,,education,school,11.2528432,-85.852592,,,Nicaragua
 3883811512,Farmacia Díaz,health,pharmacy,11.99953,-86.1176819,,,Nicaragua
 3883811513,,education,school,11.2268722,-85.8203348,,,Nicaragua
@@ -1045,7 +1060,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3897074137,Colegio Santa Clara,education,school,12.1571995,-86.22885,Managua,,Nicaragua
 3897335653,Escuela Comunal Las Torres,education,school,12.1584609,-86.241935,Managua,,Nicaragua
 3897395502,Escuela Jose Dolores Estrada,education,school,12.1543576,-86.2122418,Managua,,Nicaragua
-3897396068,Puesto Medico Jose Dolores Estrada,health,health_post,12.1542868,-86.2125852,Managua,,Nicaragua
+3897396068,Puesto Medico Jose Dolores Estrada,health,clinic,12.1542868,-86.2125852,Managua,,Nicaragua
 3899243900,Farmacity,health,pharmacy,12.1364587,-86.2506178,,,Nicaragua
 3899261048,Farma Descuento,health,pharmacy,12.0985559,-86.2481904,,,Nicaragua
 3900836794,Escuela Primaria,education,school,11.9023216,-86.2575357,,,Nicaragua
@@ -1057,6 +1072,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 3913374540,Farmacia Josefina,health,pharmacy,12.1541975,-86.2078636,,,Nicaragua
 3913503019,Escuela de Sargentos Andres Castro,education,school,12.2098358,-86.3390311,,,Nicaragua
 3913509120,Escuela Publica Heroes y Martires de Xiloa,education,school,12.2095604,-86.3163264,,,Nicaragua
+3913510595,Centro de Salud Xiloa,health,clinic,12.2093008,-86.3156961,,,Nicaragua
 3913530290,Escuela Publica Maximo Lopez,education,school,12.1860497,-86.3383175,,,Nicaragua
 3913553971,Escuela Publica Maximo Lopez,education,school,12.2042808,-86.3427914,,,Nicaragua
 3913870557,,education,school,11.1991117,-85.8044716,,,Nicaragua
@@ -1330,7 +1346,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 2658731052,Z-2 Estacion de Bomberos  Zona 2,other,fire_station,12.13056197260417,-86.21512117448489,Managua,Managua,Nicaragua
 2667269616,Uno,other,fuel,11.987983955603994,-86.09688562922413,Managua,Managua,Nicaragua
 2667748240,,other,fuel,11.909064230092781,-86.20561173769647,Managua,Managua,Nicaragua
-2666526416,Hospital Cruz Azul Policlinica Norte,health,,12.151088163828689,-86.2351975089661,Managua,Managua,Nicaragua
+2666526416,Hospital Cruz Azul Policlinica Norte,health,clinic,12.151088163828689,-86.2351975089661,Managua,Managua,Nicaragua
 2666526442,Policía Nacional Distrito 4,other,police,12.151024796640684,-86.2475166435173,Managua,Managua,Nicaragua
 2667747974,Uno,other,fuel,11.908776479356845,-86.1463640036574,Managua,Managua,Nicaragua
 2673977544,UNO - La Estación,other,fuel,11.982454246442359,-86.09668991178503,Managua,Managua,Nicaragua
@@ -1707,7 +1723,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 234046211,Jabonera Las Americas,other,industrial,12.150340581884649,-86.25785178158733,Managua,Managua,Nicaragua
 234053798,,other,retail,12.149235427951226,-86.26148030747115,Managua,Managua,Nicaragua
 234053974,Complejo Judicial Central - Managua,other,public,12.153240888020747,-86.26954520706664,Managua,Managua,Nicaragua
-234595319,Clínica Acupunctura - Clínica de Medicina Oriental,health,medic,12.13353419546948,-86.2384155730515,Managua,Managua,Nicaragua
+234595319,Clínica Acupunctura - Clínica de Medicina Oriental,health,clinic,12.13353419546948,-86.2384155730515,Managua,Managua,Nicaragua
 235381647,,other,house,11.91481463476498,-86.09737773075945,Managua,Managua,Nicaragua
 235381654,,other,house,11.91506542130793,-86.09735862002022,Managua,Managua,Nicaragua
 236468447,Farmacia Portas,health,pharmacy,11.99955014379313,-86.1164272821019,Managua,Managua,Nicaragua
@@ -1750,7 +1766,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 239827667,,other,commercial,12.144736944337012,-86.23287714671056,Managua,Managua,Nicaragua
 239827669,,other,commercial,12.145323845197225,-86.23374400313676,Managua,Managua,Nicaragua
 239827668,,other,commercial,12.145501541544519,-86.23348625961418,Managua,Managua,Nicaragua
-240077149,Clinica de Medicina Oriental Altamira,health,medic,12.125665516227286,-86.2528175267223,Managua,Managua,Nicaragua
+240077149,Clinica de Medicina Oriental Altamira,health,clinic,12.125665516227286,-86.2528175267223,Managua,Managua,Nicaragua
 240077150,Clinica Dentista Santa Clara,health,dentist,12.12566174437086,-86.25273102548154,Managua,Managua,Nicaragua
 240323432,Bolivar Plaza,other,commercial,12.128509495974072,-86.27489344802457,Managua,Managua,Nicaragua
 240323439,,other,roof,12.130106332347651,-86.26229536373575,Managua,Managua,Nicaragua
@@ -1814,8 +1830,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 255721609,,education,school,12.130352927939015,-86.21085151682733,Managua,Managua,Nicaragua
 255721610,,education,school,12.130508244604812,-86.21083366337358,Managua,Managua,Nicaragua
 248170338,,other,commercial,12.093029821849939,-86.2373456231114,Managua,Managua,Nicaragua
-256600762,Clinica Dental Integral,health,,12.117961792839537,-86.25500662837412,Managua,Managua,Nicaragua
-256600763,Clinica de Otorrinolaringología y Especialidades,health,,12.121540697856574,-86.25154255543058,Managua,Managua,Nicaragua
+256600762,Clinica Dental Integral,health,clinic,12.117961792839537,-86.25500662837412,Managua,Managua,Nicaragua
+256600763,Clinica de Otorrinolaringología y Especialidades,health,clinic,12.121540697856574,-86.25154255543058,Managua,Managua,Nicaragua
 256600765,Farmacia Mini-Max,health,pharmacy,12.121285636543007,-86.25242391254926,Managua,Managua,Nicaragua
 256606318,Farmacia Joseph,health,pharmacy,12.128398268118957,-86.27054005515431,Managua,Managua,Nicaragua
 256858029,Instituto Nicaragüense de Seguridad Social (INSS),other,office,11.851446357125809,-86.20221010993157,Managua,Managua,Nicaragua
@@ -1943,8 +1959,8 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 306066381,Calvario,community,church,11.84955757906468,-86.19451133186669,Managua,Managua,Nicaragua
 306066384,,community,church,11.8567284648677,-86.21458364303437,Managua,Managua,Nicaragua
 306044448,,other,airplane,12.171545371990078,-86.10865507856522,Managua,Managua,Nicaragua
-306758861,Clínica Shiatsu - Clínica Medicina Oriental,health,medic,12.133229680927201,-86.2385006493687,Managua,Managua,Nicaragua
-306758862,Laboratorio - Clínica de Medicina Oriental,health,laboratory,12.133352056713534,-86.23836570072761,Managua,Managua,Nicaragua
+306758861,Clínica Shiatsu - Clínica Medicina Oriental,health,clinic,12.133229680927201,-86.2385006493687,Managua,Managua,Nicaragua
+306758862,Laboratorio - Clínica de Medicina Oriental,health,clinic,12.133352056713534,-86.23836570072761,Managua,Managua,Nicaragua
 306758863,,other,roof,12.144094974372962,-86.22414555053665,Managua,Managua,Nicaragua
 307511098,Comedor UCC,other,commercial,12.123224622204134,-86.25024067822966,Managua,Managua,Nicaragua
 309850921,Fam. Valle Martinez,other,house,12.119342376111263,-86.2852935458442,Managua,Managua,Nicaragua
@@ -2010,7 +2026,7 @@ osm_id,name,type,facility_type,lat,lon,municipality,department,country
 333318174,Colegio Publico Jose de la Cruz Mena,education,school,12.199766066508857,-86.10202532843111,Managua,Managua,Nicaragua
 333417362,EVOMENSA,other,industrial,12.19004213681825,-86.09669846132627,Managua,Managua,Nicaragua
 333438424,"Colegio ""Pequeño Benjamin""",education,school,12.196813457296969,-86.0861680249123,Managua,Managua,Nicaragua
-333480502,Clinica Doctor Kester Barquero,health,medic,12.195315527380842,-86.0965065157436,Managua,Managua,Nicaragua
+333480502,Clinica Doctor Kester Barquero,health,clinic,12.195315527380842,-86.0965065157436,Managua,Managua,Nicaragua
 333480510,Farmacia Xolotlan,health,pharmacy,12.195780639187916,-86.09618934452752,Managua,Managua,Nicaragua
 333486870,"Farmacia ""Chinto""",health,pharmacy,12.198335191818131,-86.09643015660569,Managua,Managua,Nicaragua
 333417107,Capilla Virgen de Guadalupe,community,church,12.179983517733888,-86.09801366575323,Managua,Managua,Nicaragua

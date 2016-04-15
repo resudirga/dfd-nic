@@ -70,6 +70,7 @@ osm_id,name
 1144051690,Framacia Gracy
 1145521447,Centro Escolar Carlos A. Bravo
 1145529859,Centro Apoyo extraescolar
+1145538752,Casa de la Mujer
 1147472217,Laboratorio Clinica Xalteva
 1147472296,English Language School
 1147472539,Madre Albetina
@@ -131,6 +132,7 @@ osm_id,name
 1933087330,Kinder Montessori
 1933088854,Sant Dominic School
 1933091330,Farmadescuento
+1951541158,Central De Salud
 1966008076,Colegio Calasanz
 1983084135,Colegio Cristiano Josue 1:8
 2026720779,La Mariposa Escuela de Español & Eco-Hotel
@@ -378,6 +380,7 @@ osm_id,name
 2612971815,Farmacia del INSS Centroamerica
 2617570312,Raymari Clinica Veterinaria
 2618003483,Colegio Sagrado Corazón de Jesús
+2620563417,Centro de Salud
 2620563434,Primaria
 2622496041,Clinica Dentista Cuba
 2622496042,Clinica del Pie
@@ -443,12 +446,15 @@ osm_id,name
 2705797377,Farmacia Vargas
 2705797380,Clinica Excelencia Dental
 2705797381,Clinica Dental Santa Maria
+2705819340,Los Pipitos
+2705819341,Casa de la Mujer
 2705850990,Clinica de Especialidades
 2705851023,Clinica Medica Misión para Cristo
 2706133711,Farmacia Castillo
 2706133712,Farmacia Ticuantepe
 2706133714,Colegio Público Santo Domingo
 2706133717,Farmacia Marbela
+2706207033,Centro de Salud San Juan
 2707998374,Centro Escolar
 2708075038,CICO
 2708075038,Centro Infantil Comunitario
@@ -597,11 +603,13 @@ osm_id,name
 3107954276,Clínica Tanaj
 3107954277,Farmacia Siloe
 3108205492,Farmacia Moncada
+3108652507,Centro de Salud Nuestra Señora de las Victorias
 3110317350,Opticas Matamoros
 3110317351,Opticas Münkel
 3119230670,Medco
 3132184343,Escuela Holanda
 3132184344,Farmacia San Jose
+3140667732,Centro de Salud
 3143519190,BICU University
 3143533449,Corn Island Health Center
 3143533451,Tazlor Pharmacy
@@ -611,6 +619,7 @@ osm_id,name
 3150792074,Kinder Ker Pre escolar bilingue
 3157327771,Cruz Roja
 3157327778,Jardín de la Sonrisa
+3157376894,Casa Materna
 3157376896,Clinica Sukia
 3157376898,Escuela de Enfermería
 3157376900,Farmácia Fladia Nifer
@@ -911,6 +920,7 @@ osm_id,name
 3392460679,Universidad catolica de dele
 3392460744,Escuela Primaria
 3396941133,Laboratorio JADPA
+3404254812,IXCHEN
 3404447764,Farmacia Marbelli
 3404615659,Colegio Bello Horizonte
 3404615660,Colegio Pio X
@@ -984,6 +994,7 @@ osm_id,name
 3511456493,Xolotlan
 3512709786,Ignacio Loyola
 3512717728,Universidad de Managua (UdeM)
+3512832999,Centro Salud San Jacinto
 3512893319,Padre Bruno Martinez
 3512893370,lucia
 3512894921,Unitec
@@ -1003,6 +1014,7 @@ osm_id,name
 3607741359,Farmacia Universal
 3618114800,FarmaVida
 3620536952,Clínica médica Pasteur
+3622522527,Casa Materna Doña Marita
 3625373977,Farmacia La Boniche
 3674149626,Policlinica Lomas del Valle
 3674149727,Kidzchool
@@ -1079,6 +1091,7 @@ osm_id,name
 3762116969,Escuela de Secundaria
 3766664749,Farmacia la norteña
 3766679911,Farmacia Veterinaria El Bramadero
+3766689594,Centro de Salud
 3780195085,Farmacia Mary Cruz
 3788167799,La Estrella Roja
 3790900477,Escuela Delta
@@ -1131,6 +1144,7 @@ osm_id,name
 3913374540,Farmacia Josefina
 3913503019,Escuela de Sargentos Andres Castro
 3913509120,Escuela Publica Heroes y Martires de Xiloa
+3913510595,Centro de Salud Xiloa
 3913530290,Escuela Publica Maximo Lopez
 3913553971,Escuela Publica Maximo Lopez
 3921138442,Hospital
