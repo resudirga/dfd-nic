@@ -45,7 +45,7 @@ def xml_list_node_tags(fpath, out_filename):
 def get_regexp(type):
     regexp = None
     if type == 'health':
-        regexp = re.compile( 'hos?pital|dentist|pharmacy|farma|laborator|cl?n?c|\
+        regexp = re.compile( 'hos?pital|dentist|pharmacy|farma|laborator|cl.?n.?c|\
                   medic|optic|hospice|doctor|puesto m.?dico|puesto de salud|\
                   centro de salud|centro m.?dic.?|unidad m.?dic.?|m.?dico.? unid.*|\
                   health_post|health_cent[er][re]|\
@@ -287,7 +287,7 @@ def xml_get_tables(amenities_dicts):
         
         # Add to places.csv
         new_place = {'osm_id' : facility['_id'],
-                    'name' : facility['name'][0] if facility['name'] else '', 
+                    'name' : facility['names'][0] if facility['names'] else '', 
                     'type' : facility['amenity_type'],
                     'facility_type' : facility['facility_type'],
                     'lat' : facility['location']['lat'],
@@ -299,8 +299,8 @@ def xml_get_tables(amenities_dicts):
         places.append(new_place)
         
         # Add to altnames.csv
-        if facility['name']:
-            for name in facility['name']:
+        if facility['names']:
+            for name in facility['names']:
                 new_altname =  { 'osm_id' : facility['_id'],
                                  'name'   : name }
                 altnames.append(new_altname)
@@ -411,19 +411,10 @@ def process_amenities_shp(folder_path):
                     }
         
         places.append(new_place)
+        
+    print("managua_nicaragua_osm_amenities: " + str(len(places)) + " places found.")
     return places 
 
-def print_man_amenities(managua_amenities):
-    """ Print amenities extracted from managua_nicaragua_osm_amenities.shp into a csv file """
-    colnames = ['osm_id', 'name', 'type', 'facility_type', \
-                'lat', 'lon', 'municipality', 'department', 'country']
-    
-    fpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'managua_places1.csv')
-    with open(fpath,'w', newline='', encoding='utf-8') as csv_places:
-        writer = csv.DictWriter(csv_places, colnames, delimiter=",", quotechar='"')
-        writer.writeheader()
-        writer.writerows(managua_amenities) 
-        
 def process_buildings_shp(folder_path):
     """ 
     Transform managua_nicaragua_osm_buildings shapefiles into a data structure similar to xml_places_table
@@ -475,7 +466,20 @@ def process_buildings_shp(folder_path):
                          'country'    : 'Nicaragua'
                         }
             places.append(new_place)
+            
+    print("managua_nicaragua_osm_buildings: " + str(len(places)) + " places found.")
     return places 
+    
+def print_man_amenities(managua_amenities):
+    """ Print amenities extracted from managua_nicaragua_osm_amenities.shp into a csv file """
+    colnames = ['osm_id', 'name', 'type', 'facility_type', \
+                'lat', 'lon', 'municipality', 'department', 'country']
+    
+    fpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'managua_places1.csv')
+    with open(fpath,'w', newline='', encoding='utf-8') as csv_places:
+        writer = csv.DictWriter(csv_places, colnames, delimiter=",", quotechar='"')
+        writer.writeheader()
+        writer.writerows(managua_amenities) 
     
 def main():
     """ 

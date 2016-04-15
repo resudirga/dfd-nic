@@ -52,9 +52,7 @@ osm_id,name
 1135823032,Escuela de Maneja
 1135823125,Bengoechea
 1140908437,Farmacía y Clinica Vet.
-1140908461,Materiales de Costrucción la Union
 1140913041,Jardín Infatil Campanitas
-1142233210,Soluccion
 1142233342,Opticas Münkei
 1142233493,Spanish Schools Granada
 1142250625,Naturista Barret
@@ -64,13 +62,13 @@ osm_id,name
 1143989028,Cyber Farmacia Interplaza
 1143989045,La Esperanza Granada
 1143989059,Facultad Informatica
+1144001734,Clinica Alhambra Granada
 1144001758,Universidad Hispanoamericana
 1144051575,Corazon de Jesus
 1144051606,Clinica San Pablo
 1144051628,Divino Niño Jesus
 1144051690,Framacia Gracy
 1145521447,Centro Escolar Carlos A. Bravo
-1145521522,Dirección General de Ingresos
 1145529859,Centro Apoyo extraescolar
 1147472217,Laboratorio Clinica Xalteva
 1147472296,English Language School
@@ -83,6 +81,7 @@ osm_id,name
 1147521920,Sacuanjoche Waldorf Kindergarten
 1148163184,Farmacia Carcoche
 1148186604,Farmacia del Pueblo
+1194971388,Hostal La Clinica
 1212193679,Dr. Juan Carlos Leyton
 1216931357,Escuela de Las Vueltas
 1245017538,Cruz Roja de Los Chiles
@@ -112,7 +111,6 @@ osm_id,name
 1827676412,Centro de Salud Santa Lucia
 1827719192,Escuela Francisca Garcia
 1827990522,Centro de Salud Odorico D Andrea
-1828784575,Rebecca's Inn
 1847223564,Farmacia Milagros
 1847230258,Farmacia Meridional / La Baratera
 1848771316,Instituto Beatriz Rocha
@@ -135,7 +133,6 @@ osm_id,name
 1933091330,Farmadescuento
 1966008076,Colegio Calasanz
 1983084135,Colegio Cristiano Josue 1:8
-1995470830,Iglesia de la Recolección
 2026720779,La Mariposa Escuela de Español & Eco-Hotel
 2026720779,Escuela de Epanol La Mariposa
 2043141957,La Escuelita
@@ -158,7 +155,6 @@ osm_id,name
 2144900170,Escuela San Francisco Xavier - Fé y Alegría
 2144909922,Centro Escolar Villa Nueva
 2154665738,FarmaCentro
-2206264635,Selección Café
 2245783352,Hospital El Maestro
 2245788816,Sana Sana
 2245796491,Colegio La Salle
@@ -202,7 +198,6 @@ osm_id,name
 2397753644,Centro de salud Primero de Mayo
 2402989257,Colegio Liceo Franciscano
 2410500397,Hotel Escuela Teosintal
-2412559639,Dirección General de Aduanas
 2423626522,Colegio Cristo Rey
 2428484847,Trinity Christian School
 2428484847,TCS
@@ -220,7 +215,7 @@ osm_id,name
 2448608294,Universidad Ciencias Comerciales - UCC LEON
 2449659532,"Centro de Salud ""Silvia Ferrufino"""
 2449663456,Farmacia León
-2452412433,Sabroccino
+2453319340,Clinica veterinaria el Triunfo
 2454991503,Altagracia
 2454991507,Buen Día
 2457016750,Farmacia Marien
@@ -254,8 +249,6 @@ osm_id,name
 2490205782,Naciones Unidas
 2490205782,Farmacia La Esperanza
 2490518707,Farmacia Rossi
-2490583555,Iglesia Mormona
-2490583555,Carrión Cruz Construcciones S.A. 20 mts al Norte
 2490583571,El Edén
 2490583571,Colegio Andrés Bello
 2490583574,Farmacia Vicky
@@ -267,8 +260,8 @@ osm_id,name
 2490583625,Escuela Emanuel Mongalo
 2490583627,Variedades Joshep
 2490583627,Colegio Enmanuel Mongalo
-2490583656,Variedades Antonia
-2490583656,Frente Dirección de Recaudación Alma
+2490583671,Clínica Médica Cristiana
+2490583671,Clínica Médica Cristiana
 2490583675,Farmacia David
 2490583675,Farmacia La Chela
 2490583699,Farmacia El Cristo
@@ -279,12 +272,12 @@ osm_id,name
 2491505138,Colegio Reverendo Boanerges Aragón
 2491505142,Puesto de Salud Mártires de Julio
 2491526383,Escuela Paul Harris
-2496955981,Iglesia Centro de Restauración
-2496955981,Carrión Cruz Construcciones
 2496955983,Plaza El Edén
 2496955983,Colegio Andrés Bello
 2496955990,Variedades Joshep
 2496955990,Frente a Colegio Enmanuel Mongalo
+2496955997,Rótulo Clínica Nuevos Horizontes
+2496955997,Rótulo Clínica Nuevos Horizontes
 2496956004,Hospital Japonés
 2496956004,Hospital Japonés
 2496956008,Farmacia El Cristo
@@ -297,7 +290,7 @@ osm_id,name
 2498938343,Farma Descuento
 2498972182,Xolotlan Farmacia
 2498973387,Farmacias Xolotlan
-2499528353,Banco de Fomento a la Producción
+2500129757,Clínica Dental
 2500129758,Colegio Inmaculada Concepción
 2500129758,Colegio Inmaculada Concepción
 2500129770,Cyber EL Colonial
@@ -308,6 +301,7 @@ osm_id,name
 2500129775,Farmacia Sophya
 2500129787,Verde Sonrisa
 2500129787,Frente a Centro Escolar La Verde Sonrisa
+2500129790,Clínica Dental
 2500129839,Frente Hospital Alemán
 2500129839,Frente A Hospital Alemán Nicaraguense
 2500129934,Colegio Inmaculada Concepción
@@ -319,8 +313,6 @@ osm_id,name
 2505154027,"Farmacia del INSS ""Simon Bolivar"""
 2505154053,Opticas Münkel
 2507312720,Farmacia Value
-2507312721,MAGFOR Dirección General de Protección y Sanidad de Agropecura
-2507312721,Ministerio de Agricultura y Forestería Dirección General de Protección y Sanidad de Agropecura
 2507430312,Emmanuel Mongalo y Rubio
 2507430313,Benjamín Linder
 2513648927,Colegio Simón Bolívar
@@ -341,7 +333,6 @@ osm_id,name
 2539247398,Escuela Primaria - La Marimba
 2539247443,Proyecto ecologico Spanish School and Hostel
 2539247444,Escuela Laguna Apoyo
-2539247450,La Bocca
 2539247454,Xolotlan
 2539247459,Farmacia El Peruano
 2539247461,Farma Value
@@ -365,10 +356,6 @@ osm_id,name
 2567084047,Escuela de Música
 2567115079,Escuela Técnica Luis Valencia Alvarado
 2573653027,Shark Waves Surf School
-2573989216,Inss Sucursal
-2573989216,INSS Sucursal Occidental
-2573989217,Inss Sucursal
-2573989217,INSS Sucursal Occidental
 2573989218,Colegio
 2573989218,Costado Norte Escuela Pedro Joaquin Chamorro (Barrio Santa Ana)
 2576258221,Spanish Conversation School of Estelí
@@ -389,6 +376,7 @@ osm_id,name
 2612971808,Opticas Munkel
 2612971809,Farmacia Scarleth
 2612971815,Farmacia del INSS Centroamerica
+2617570312,Raymari Clinica Veterinaria
 2618003483,Colegio Sagrado Corazón de Jesús
 2620563434,Primaria
 2622496041,Clinica Dentista Cuba
@@ -396,6 +384,7 @@ osm_id,name
 2622559437,El Quetzal
 2627443505,Opticas Vision
 2627443515,Medco
+2627443519,Clinica Tiscapa
 2629885079,Opticas Vision
 2629885081,Opticas Munkel
 2632967767,Escuela Benito Juarez
@@ -419,20 +408,23 @@ osm_id,name
 2644876768,Farmacia Logo
 2648677770,Farmacia Potenza
 2657146872,Farmacia Belmonte
+2658437403,Clinica veterinaria Dr. Arguello
 2658731039,Farmacia Scarleth
 2658731041,Santa Lucía Pharmacy
 2661531195,Laboratorio Químico Inmaculada Concepción
+2666173937,Clínica Don Bosco
 2666272684,Semáforos Hospital Metropolitano
 2666272684,Semáforos de Hospital Vivian Pellas
 2666366754,Farmacia Hospital Central Managua de Cesar Amador Ruhl
 2666367064,Farmacia Alvarado
+2666413594,Aqua Clínica Dermatológica Estética
+2666413594,Aqua
 2666526416,Hospital Cruz Azul Policlinica Norte
 2666735829,Dr. Mario Sanchez
 2673977436,Farmacia Sarah
 2673977669,Escuela de Las Pilas
 2676352479,Escuela Salomon Ibarra
 2681328947,Farmacia Laureles Sur
-2685651031,Ayuda en Accion
 2685651035,Universidad Metropolitana
 2685651042,Pedro Betancut
 2685670653,Centro de salud Pedro Altamirano
@@ -445,17 +437,14 @@ osm_id,name
 2690538198,Farmacia San Juan
 2690538200,Farmacia La Virgen
 2690538269,Colegio
-2691984802,Centro Cultural Nicaragüense Norteamericano CCNN
-2694672098,RENICC
-2694672098,http://www.redcontralatrata.Red Nicaragüense de Comercio Comunitario
-2694672098,RENICC
 2699059583,Farmacia Fátima
 2701676337,Escuela professor Humberto Aguilar
 2705797360,Clinica Medica Previsional MINSA
 2705797377,Farmacia Vargas
 2705797380,Clinica Excelencia Dental
 2705797381,Clinica Dental Santa Maria
-2706133693,Venta de materiales construcción San Juan
+2705850990,Clinica de Especialidades
+2705851023,Clinica Medica Misión para Cristo
 2706133711,Farmacia Castillo
 2706133712,Farmacia Ticuantepe
 2706133714,Colegio Público Santo Domingo
@@ -474,8 +463,8 @@ osm_id,name
 2713189974,Farmacia Don Bosco
 2713362595,Universidad Central de Nicaragua UCN
 2714691184,Instituto Nacional Guillermo Ampie Lanzas
-2714691198,Materiales de construcción San Juan
 2714691338,Escuela de Palo Solo
+2714691562,Clínica Médico Quirúrgica
 2714942010,Farmacia del Norte
 2714943510,Farmacia Alejandra
 2715045509,La escuela primaria Panamá
@@ -493,7 +482,6 @@ osm_id,name
 2730056254,Farmacia La Palmita
 2732627308,Farmacia El Cristo
 2734944460,Escuela Primaria Emanuel Mongalo
-2735457695,Acción Médica Cristiana
 2735620658,CEDEHCA
 2735620667,Consultorio Dra. Ronda
 2735620672,El Futuro
@@ -519,13 +507,10 @@ osm_id,name
 2757171686,Farmacia Diana
 2759980136,Farmacia Amor Celestial
 2759980137,Farmacia Maria Belén
-2766007828,Materiales de construcción Marily
 2766028668,Farmacia Xolotlán
 2766036949,Centro de Salud Roger Osorio
 2766521717,Escuela Edgard Munguia
 2766522220,Medco
-2775799305,Región Autónoma de la Costa Caribe Sur
-2775799305,RACCS
 2778783142,Farmacia San Marcos
 2778783151,Preescolar Comunitario del Poder ciudadano
 2782561488,Bertha Calderon
@@ -548,8 +533,8 @@ osm_id,name
 2782561962,Universidad Americana
 2782561965,Universidad de Catolica
 2785615846,Farmacia Zenit
+2805284513,Clínica Cruz Azul
 2819173246,UHISPAM Masaya
-2819788857,Dirección Tránsito
 2819807020,La Estrella Roja
 2823776881,Escuela Americas 2
 2848390557,Centro Rubén Darío
@@ -579,18 +564,18 @@ osm_id,name
 2914673358,Entrada de Universidad Thomas More
 2914942070,Farmacia Santa Julia
 2921996039,Medco - Xolotlan
-2923223363,Región Autónoma de la Costa Caribe Norte
-2923223363,RACCN
 2925263482,Centro Escolar Rubén Darío
 2925263485,San Antonio
 2926551328,Entrada Colegio Calasanz
 2926551381,Farmacia Allisa
 2928499355,Clínica Dental Emmanuel
-2928534534,Materiales de construcción Howard
 2930979017,Farmacia
 2930979052,Farmacia Sor María
+2932480064,Clínica Bethel
+2932480064,Pulpería Las Brisas
+2932480065,Clínica Bethel
+2932480065,Frente a Pulpería Las Brisas
 2937568491,CCAP
-2939785902,Materiales de construcción Pinos del Norte
 2939801712,Dentista Dra Ada Nelly
 2946469847,BioAnalisis laboratorio clínico
 2948372892,Paulo freire
@@ -599,6 +584,7 @@ osm_id,name
 2950380215,Hospital Metropolitano Vivian Pellas
 2953594483,Colegio Chino-Nicaragüense
 2998470560,Escuela Publica  Hugo Chavez
+3006216747,Edificio Clínica El Carmen
 3017254429,Colegio Rodríguez Ruíz
 3021707898,Mongalo Dentistry
 3022718353,Farnmacia Central
@@ -616,7 +602,6 @@ osm_id,name
 3119230670,Medco
 3132184343,Escuela Holanda
 3132184344,Farmacia San Jose
-3142862729,Entrada de la UCC
 3143519190,BICU University
 3143533449,Corn Island Health Center
 3143533451,Tazlor Pharmacy
@@ -625,9 +610,8 @@ osm_id,name
 3150097322,Colegio Monte Sinai
 3150792074,Kinder Ker Pre escolar bilingue
 3157327771,Cruz Roja
-3157327772,DGI
-3157327772,Dirección General de Ingresos
 3157327778,Jardín de la Sonrisa
+3157376896,Clinica Sukia
 3157376898,Escuela de Enfermería
 3157376900,Farmácia Fladia Nifer
 3158139223,Centro Escolar Sol de Libertad
@@ -636,7 +620,6 @@ osm_id,name
 3163194734,Centro de Salud
 3163194737,Escuela Fabián Sang Bolaños
 3163194738,Farmácia Venus
-3163194741,Materiales de Construcción Chow Budier
 3163311697,Escuela Feliciano Whete
 3163534948,Colegio Corazón del Muelle
 3163534949,Dentista La Belleza
@@ -644,6 +627,8 @@ osm_id,name
 3163833059,Colegio Cristiano Takashi
 3163834766,Pulperia Amalia
 3163920079,Cadamuc
+3163920083,Clinica Bilwi
+3163920084,Clinica Veterinaria Guadamuz
 3163960365,Farmácia Humberto
 3165905820,Laboratorio de Anatomia
 3175000579,Hospital Consultorio El Verbo
@@ -684,10 +669,6 @@ osm_id,name
 3216618792,Portón principal Hospital Lenín Fonseca
 3216618793,Lenín Fonseca
 3216618793,Portón principal Hospital Lenín Fonseca
-3216618804,PMS Construcciones
-3216618804,Grafitec
-3216618806,PMS Construcciones
-3216618806,Grafitec
 3216632566,Farmacia Tri-mar
 3216901018,Farmacia La Económica
 3216902387,Colegio San Luis Gonzaga
@@ -715,8 +696,6 @@ osm_id,name
 3227474882,Frente a Hospital Roberto Calderón
 3227474883,Hospital Roberto Calderón
 3227474883,Hospital Roberto Calderón
-3227474884,Howard
-3227474884,Venta de materiales de construcción Howard
 3227474888,Las Piedrecitas
 3227474888,Frente al Hospital Vélez Paiz
 3227474923,Velez Páiz
@@ -735,8 +714,6 @@ osm_id,name
 3237278836,Farmacia Elena
 3237278837,Farmacia Los Cocos
 3237278837,Farmacia Liliana
-3237278848,Materiales de Construcción Santa Clara
-3237278848,Materiales de Construcción Santa Clara
 3237278978,Tortillería Alicia
 3237278978,Farmacia San Guillermo 30 mts al Este
 3237278981,Universidad Paulo Freire
@@ -755,8 +732,6 @@ osm_id,name
 3240370480,Colegio Loyola
 3240370481,Laboratorio Seprodi
 3240370481,Taller y Repuestos Amadeus (Duplas Norte)
-3240370483,Materiales de Construcción Santa Clara
-3240370483,Frente a Materiales de Construcción Santa Clara
 3240370486,Plásticos Record
 3240370486,Frente a Farmacia Salgado
 3240370499,Universidad Paulo Freire
@@ -797,8 +772,7 @@ osm_id,name
 3255740089,Pulpería Rodríguez
 3255740089,Esquina Noroeste Colegio Benjamín Zeledón 80 mts al Norte
 3258767771,Farmacia Siloe
-3259282676,Gasolinera Uno
-3259282676,Fricciones San Pablo
+3264411572,Clínica de Salud del Pie
 3264411575,Entrada Barrio Colombia
 3264411575,Colegio República de Colombia 40 mts al Oeste
 3270896599,Colegio República de Colombia
@@ -866,10 +840,6 @@ osm_id,name
 3284826081,Centro Escolar Solidaridad Entre los Pueblos 20 mts al Sur
 3284826087,Saint Dominic School
 3284826087,Embajada de España 300 mts al Este
-3285056543,Venta de Materiales de Construcción Luisa
-3285056543,Frente Venta de Materiales de Costrucción Luisa
-3286646361,Accesa
-3286646361,Frente a Accesa
 3286646364,Colegio San Rafael
 3286646364,Colegio Camilo Zapata
 3286646367,Farmacia Bravo
@@ -877,8 +847,6 @@ osm_id,name
 3286898980,Frente al Colegio Camilo Zapata
 3286898992,Pulpería Karla
 3286898992,Farmacia El Relicario 50 mts al Oeste
-3286898995,Venta de Materiales de Construcción Luisa
-3286898995,Venta de Materiales de Costrucción Luisa
 3299544128,Farmacia Schick
 3299544128,Frente a Farmacia Schick
 3299544139,UNA
@@ -889,6 +857,8 @@ osm_id,name
 3301308668,Frente a Centro de Salud Carlos Rugama
 3301308669,Ferretería Cristian
 3301308669,Frente a Farmacia Reconciliación
+3301308671,Grupo Amor y Fe
+3301308671,Frente a Clínica Médica Cristiana
 3301308684,UNA
 3301308684,Universidad Nacional Agraria
 3303587370,Colegio Público Simón Bolívar
@@ -909,12 +879,12 @@ osm_id,name
 3315704717,Donde fue el tanque rojo 50 mts al Sur
 3315704718,Farmacia Ramos
 3315704718,Farmacia Ramos 60 mts al Este
-3315704721,Pulpería Lillian
-3315704721,Lubricantes y Accesorios Automotrices Doña María 40 mts al Oeste
 3320044544,Colegio Pablo Antonio Cuadra
 3320044544,Colegio Autónomo Pablo Antonio Cuadra
 3320044546,Hospital Japonés
 3320044546,Frente a Hospital Japonés
+3320044551,Rótulo Clínica Nuevos Horizontes
+3320044551,Rótulo Clínica Nuevos Horizontes
 3323910262,Farmacia Pharmanic
 3323910267,Farmacia Ingrid
 3331198262,Centro Escolar Autónomo Benito Juárez
@@ -927,27 +897,21 @@ osm_id,name
 3333023395,Frente a Farmacia Reconciliación
 3333023397,Univalle
 3333023397,Universidad del Valle
-3346033719,carretera de acceso a las Balanzas
 3375155985,Farmacia Flor De Pino
 3379727484,Colegio Cristiano Ebenezer
 3383759643,Colegio Parroquial San Ignacio de Loyola
 3383759644,Farmacia Nahomy
-3386747996,DPEI(Dirección de planificación y Evaluación Institucional)
 3386751279,Laboratorios de Fisica
 3386751371,Laboratorios de Informática Educativa
 3386753311,Laboratorio de Informática
-3386753989,Dirección de la Preparatorio
 3386783489,Laboratorio de Informática Educativa 3809
-3391864107,"Respuestos y Accesorios ""Juan Osorio"""
 3392106693,Laboratorio Bioanalisis
 3392456676,farmacia la fe
 3392460677,Clinica dental
 3392460679,Universidad catolica de dele
 3392460744,Escuela Primaria
-3396938372,Facultad de Tecnología de la Construcción FTC
 3396941133,Laboratorio JADPA
 3404447764,Farmacia Marbelli
-3404542579,DBE Direccion de Bienestar Estudiantil
 3404615659,Colegio Bello Horizonte
 3404615660,Colegio Pio X
 3404620322,Farma Value
@@ -992,7 +956,6 @@ osm_id,name
 3416237482,Farmacia S.O.S. No. 1
 3416238547,Farmacia Nueva Lucha
 3416251895,Farmacia Liz
-3418121739,Centro de Reproduccion y Fotocopias
 3423825608,Escuela Rafael A. Sánchez Arrieta
 3439500094,Milagros
 3439500123,Spanish School La Isla
@@ -1005,14 +968,9 @@ osm_id,name
 3454308687,Medco
 3460570840,Dr. Mauricio A. Molina R. Ortodoncista
 3460570841,Medco
-3462095671,Dirección General de Migración y Extranjería
-3462096911,Dirección General de Migración y Extranjería
-3462570580,Tribunal Supremo de Elecciones
 3463488602,Medco
 3487543308,Care Plus Health Clinic
-3487543424,MEFCCA
 3491805109,Farmacia El Valle
-3492599398,Chicco
 3493272757,Jardín infantil Rubén Dario
 3493273267,Farmacia Managua
 3493344093,Farmacia Saba
@@ -1033,18 +991,20 @@ osm_id,name
 3527225215,Clínica Tanaj
 3527225224,Farmacia Amada Lourdes
 3527246653,Farmacia Enmanuel
-3551748325,Improdesa construcciónes
+3551762296,Clínica cardiologica del Valle
 3554623114,Escuela de Manejo DriveMaster Nicaragua
 3560006293,Hospital Animal El Dorado
 3562260740,Farmacia Motastepe
-3577829954,Piccolo's Pizza
 3586342031,Laboratorio Clinico Leon
+3597251173,Finca Las Nubes Centro de Nutrición Comunitaria
+3597251173,FLN Clinic
 3601424780,Colegio Stilecroft
 3601424780,Stilecroft Christian Bilingual School
 3607741359,Farmacia Universal
-3607791377,MEFCCA
 3618114800,FarmaVida
+3620536952,Clínica médica Pasteur
 3625373977,Farmacia La Boniche
+3674149626,Policlinica Lomas del Valle
 3674149727,Kidzchool
 3674149729,Farmacia Báez
 3681496680,Centro Escolar Autónomo Benito Juárez
@@ -1061,7 +1021,9 @@ osm_id,name
 3696259369,Farmacia Erika
 3696259372,Modesto Armijo
 3696259372,Frente a Colegio Modesto Armijo
+3700505219,Clinica de Asma y Alergia
 3700506875,Farmacia Jerusalem
+3700507175,Clinica Lopez Galo
 3700514260,Cornerstone
 3704028841,Farmacia Valle
 3704028841,Farmacia Valle
@@ -1085,8 +1047,12 @@ osm_id,name
 3707323719,Colegio Rodolfo Rodríguez Alvarado
 3708560717,Radio Universidad
 3708560717,Radio Universidad
+3708562568,Clínica Veterinaria
+3708562568,Frente a Clínica Veterinaria Dr. Pastora
 3708718232,Centro Escolar Peniel
 3708718232,Centro Escolar Peniel
+3708718233,Clínica Veterinaria
+3708718233,Frente a Clínica Veterinaria Dr. Pastora
 3709915423,Escuela La Virgen
 3709915551,Escuela San Vicente
 3725622875,Colegio Las Américas
@@ -1136,6 +1102,7 @@ osm_id,name
 3876973814,Farmacia Sophya
 3876973814,Farmacia Sophya
 3877517046,Escuela Esperanza
+3881416957,Clínica Dental Palacios
 3883811512,Farmacia Díaz
 3883826245,Escuela El Coco
 3888086355,Farmacia 10 de Mayo
@@ -1156,7 +1123,6 @@ osm_id,name
 3899243900,Farmacity
 3899261048,Farma Descuento
 3900836794,Escuela Primaria
-3909999514,DGI - Dirección General de Ingresos
 3911858524,Clinimax
 3911914257,Centro Escolar Jose Madriz
 3911958943,Centro Escolar de Zaragoza
@@ -1169,8 +1135,6 @@ osm_id,name
 3913553971,Escuela Publica Maximo Lopez
 3921138442,Hospital
 3931659198,Farmacia El Ahorro
-3936487016,Sector Occidental Lago de Managua
-3936487016,Sector Occidental Lago Xolotlán
 3942842013,Sector Colegio Americano
 3945275658,Universidad de las Américas
 3946563359,Hospital Manolo Morales
@@ -1207,7 +1171,6 @@ osm_id,name
 3951409708,Hospital - El Rosario
 3951409709,Hospital - El Rosario
 3951420285,Farmacia del Pueblo
-3954049196,Piccolo Organico
 3954122457,Cultura Salsera
 3954122458,Laboratorio Clínica Inmaculada Concepción
 3958180161,Unitec - Universidad de Tecnología y Comercio
