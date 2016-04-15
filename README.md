@@ -2,6 +2,8 @@
 
 This repository contains Python scripts for Doctors for Doctors's exploratory research project. 
 
-* NICmap.py: A class inherited from mpl_toolkits.basemap. Contains methods for plotting locations, density map, labels, etc
+* plots/NICmap.py: A class inherited from mpl_toolkits.basemap. Contains methods for plotting locations, density map, labels, etc
 
-* nicmap_examples: Examples of plotting using NICmap
+* plots/nicmap_examples.py: Examples of plotting using NICmap
+
+* osm_db/extract_osm.py: Extract health and education facilities from OSM Nicaragua
