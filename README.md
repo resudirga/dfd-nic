@@ -6,4 +6,4 @@ This repository contains Python scripts for Doctors for Doctors's exploratory re
 
 * plots/nicmap_examples.py: Examples of plotting using NICmap
 
-* osm_db/extract_osm.py: Extract health and education facilities from OSM Nicaragua
+* osm_db/extract_osm.py: Extract health and education facilities from <a href="http://datos.mapanica.net/>OpenStreetMap Nicaragua</a>

@@ -7,12 +7,13 @@ Data sources are:
 * managua_nicaragua.imposm-shapefiles/managua_nicaragua_osm_buildings.shp
 Generate 3 csv tables: osm_places, osm_altnames, osm_addresses
 To run, place all source files under a subfolder OSM_DATA/
+
+RS 20/04/2016
 """
 
-import os, sys
+import os
 import xml.etree.cElementTree as ET
 import shapefile
-import pandas as pd
 import re, csv
 
 def xml_count_tags(fpath):

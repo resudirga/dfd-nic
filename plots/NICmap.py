@@ -19,7 +19,7 @@ class NICBasemap(Basemap):
     """
     A basemap of Nicaragua inherited from the Basemap class.
     Example: 
-      map = NICBasemap()	
+      map = NICBasemap()
     """
     def __init__(self):
         super().__init__(projection='merc', lat_0=-85., \
@@ -45,7 +45,7 @@ class NICBasemap(Basemap):
         MAP_SCALE_LON0 = -87.297
         MAP_SCALE_LAT0 = 10.93 
         MAP_SCALE_LENGTH = 100
-        self.drawmapscale(MAP_SCALE_LON, MAP_SCALE_LAT, MAP_SCALE_LON0, MAP_SCALE_LAT0, 
+        self.drawmapscale(MAP_SCALE_LON, MAP_SCALE_LAT, MAP_SCALE_LON0,                 MAP_SCALE_LAT0, 
                          MAP_SCALE_LENGTH, barstyle='fancy', fontcolor = '0.3', fillcolor2 = '0.3')
                          
     def draw_shp_polygons(self, shp_filepath, linewidths=0.2, colors='k', antialiaseds=None, linestyles='solid'):
